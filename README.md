@@ -10,11 +10,11 @@ With our new webpage users are now able to filter through the data with more spe
 
  1. Here are the different filters available to sort through the data
  
- ![image](https://user-images.githubusercontent.com/67936161/94885724-d0e67f80-0425-11eb-9eb5-ab45aaf6730b.png)
+  ![image](https://user-images.githubusercontent.com/67936161/94885728-d47a0680-0425-11eb-8eb7-e1c1f47da94a.png)
 
  2. The filters allows user to search for a single criteria or multiple at the same time
 
- ![image](https://user-images.githubusercontent.com/67936161/94885728-d47a0680-0425-11eb-8eb7-e1c1f47da94a.png)
+ ![image](https://user-images.githubusercontent.com/67936161/94885724-d0e67f80-0425-11eb-9eb5-ab45aaf6730b.png)
 
  ![image](https://user-images.githubusercontent.com/67936161/94885735-dc39ab00-0425-11eb-9a7d-76d5f69955df.png)
 
