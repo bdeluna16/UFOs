@@ -60,6 +60,7 @@ function updateFilters() {
     let city = d3.select("#city").property("value");
     let country = d3.select("#country").property("value");
     let shape = d3.select("#shape").property("value");
+    let state = d3.select("#state").property("value");
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
@@ -74,6 +75,9 @@ function updateFilters() {
     }
     if (shape) {
       filteredData = filteredData.filter(row => row.shape === shape);
+    }
+    if (state) {
+      filteredData = filteredData.filter(row => row.state === state);
     }
   
     // 10. Finally, rebuild the table using the filtered data
