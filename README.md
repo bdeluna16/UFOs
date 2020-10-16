@@ -1,6 +1,6 @@
 # UFOs
 
-Live Website: https://bdeluna16.github.io/UFO-Sightings/
+Live Website: https://bdeluna16.github.io/UFOs/
 
 ## Overview
 In this challenege we were tasked with creating an HTML page to provide users a more viewable platform of data that they will use in their analysis of UFO sightings. To do this we built a table in the HTML page with data stored in a Javascript array. To make it fully dynamic we created multiple search filters that reacted to user inputs. 
